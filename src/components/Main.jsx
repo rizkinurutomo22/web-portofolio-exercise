@@ -4,7 +4,7 @@ function Main() {
   return (
     <div id="main">
       <img
-        src="./src/assets/man-working-with-laptop.png"
+        src="https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/EyvF0jkPg/man-working-on-laptop-computer-in-the-workplace_e3al7fiwx_thumbnail-1080_01.png"
         alt="Man Working with Laptop"
         className=" w-full h-screen object-cover object-left"
       />
